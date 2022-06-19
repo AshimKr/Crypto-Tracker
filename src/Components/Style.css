@@ -1,0 +1,16 @@
+.banner-container{
+    background-image: url(../../public/banner2.jpg);
+    height: auto;
+};
+
+
+/* .trendingCoinContainer{
+    display: flex;
+    flex-direction: column;
+    margin: 50px;
+    background-color: aliceblue;
+} */
+
+/* .trendingCoinContainer>img{
+    width: 100px;
+} */
